@@ -1481,19 +1481,11 @@
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
-         <loc>https://zzg890.github.io/vch-docs/2d-visualization/controls/table/select-execute-command/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
          <loc>https://zzg890.github.io/vch-docs/2d-visualization/controls/table/table/</loc>
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
          <loc>https://zzg890.github.io/vch-docs/2d-visualization/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/2d-visualization/project-properties/customize-login-page/</loc>
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
@@ -1505,99 +1497,7 @@
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
-         <loc>https://zzg890.github.io/vch-docs/2d-visualization/property-binding/sql-query/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/2d-visualization/sql-query/create-sql-query/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/2d-visualization/sql-query/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/2d-visualization/sql-query/sql-query-example/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/2d-visualization/sql-query/sql-query-example/query/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/2d-visualization/sql-query/sql-query-example/scalar-query/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/2d-visualization/sql-query/sql-query-example/update-query/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/2d-visualization/sql-query/supported-data-types/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/appendix/system-function/system-db/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/appendix/system-function/system-db/system-db-runsqlquery/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/appendix/system-function/system-security/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/appendix/system-function/system-security/system-security-changepassword/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/appendix/system-function/system-security/system-security-getroles/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/appendix/system-function/system-security/system-security-getusername/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/appendix/system-function/system-security/system-security-login/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/appendix/system-function/system-security/system-security-logout/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/installation/branding-and-theming/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/installation/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/installation/linux-environment/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/installation/typical-architecture-selection-guide/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/installation/windows-environment/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/alarming/history-storage/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
          <loc>https://zzg890.github.io/vch-docs/management-platform/assets-and-tags/asset/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/assets-and-tags/tag/tag-type/remote-tag/</loc>
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
@@ -1605,115 +1505,7 @@
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/certificate-management/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-connection/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-connection/influxdb/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-connection/least-privilege-account/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-connection/mysql/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-connection/postgresql/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-connection/query-exceptions/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-connection/sql-server/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-connection/sqlite/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-table-reference/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-table-reference/tag-table-reference/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-table-reference/tag-table-reference/influxDB-table-schema/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/database-table-reference/tag-table-reference/relational-database-table-schema/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/history-database/create-duplicated-history-database/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/history-database/create-history-database/data-partitioning-and-deletion/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/history-database/create-history-database/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/history-database/create-history-database/pre-processed/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/history-database/create-remote-history-database/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/history-database/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/databases/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/iec104/batch-operation/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/iec104/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/iec104/tls/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
          <loc>https://zzg890.github.io/vch-docs/management-platform/devices/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/modbus-rtu/batch-operation/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/modbus-rtu/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/modbus-tcp/batch-operation/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/modbus-tcp/</loc>
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
@@ -1722,30 +1514,6 @@
     </url>
     <url>
          <loc>https://zzg890.github.io/vch-docs/management-platform/devices/mqtt-sparkplugb/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/opc-ua/batch-operation/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/opc-ua/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/opc-ua/test-report/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/siemens-s7/batch-operation/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/siemens-s7/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/devices/usage-of-legacy-protocols/</loc>
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
@@ -1761,46 +1529,6 @@
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/license/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/mqtt-broker/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/networking/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/node-configuration/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/open-api/license-api-definitions/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/password-reset/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/redundancy/configuration/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/redundancy/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/redundancy/switch/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/redundancy/synchronization/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
          <loc>https://zzg890.github.io/vch-docs/management-platform/scripts/using-the-ai-assistant/</loc>
          <lastmod>2026-10-30</lastmod>
     </url>
@@ -1809,39 +1537,7 @@
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/security/identity-provider/azure-AD-integration/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/security/identity-provider/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/security/identity-provider/integrates-with-OAuth0/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/security/identity-provider/test-login-and-logout/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/security/identity-provider/troubleshooting/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/security/identity-provider/user-attribute-mapping/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/security/identity-provider/user-grants/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
          <loc>https://zzg890.github.io/vch-docs/management-platform/security/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/security/password-policy/</loc>
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
@@ -1857,39 +1553,7 @@
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/trust-store/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/workspaces/can-not-log-in/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/workspaces/current-workspace-configure-file/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/workspaces/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/workspaces/multi-workspace-management/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/workspaces/upgrade-workspace/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/management-platform/workspaces/workspace-directory/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
          <loc>https://zzg890.github.io/vch-docs/new-version/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/overview/breaking-changes/</loc>
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
@@ -1897,39 +1561,7 @@
          <lastmod>2026-10-30</lastmod>
     </url>
     <url>
-         <loc>https://zzg890.github.io/vch-docs/overview/system-requirements/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/overview/version-update-notes/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
          <loc>https://zzg890.github.io/vch-docs/quick-start-guide/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/system-deployment/azure-cloud-deployment/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/system-deployment/hybrid-cloud-and-local-deployment/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/system-deployment/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/system-deployment/network-deployment/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/system-deployment/redundant-deployment/</loc>
-         <lastmod>2026-10-30</lastmod>
-    </url>
-    <url>
-         <loc>https://zzg890.github.io/vch-docs/system-deployment/standalone-deployment/</loc>
          <lastmod>2026-10-30</lastmod>
     </url>
 </urlset>
